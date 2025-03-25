@@ -82,6 +82,7 @@ The app provides comprehensive damage analysis through multiple metrics:
 
 1. Clone the repository:
    ```
+   git clone https://github.com/Team-Unthinkables/StreetSense-Road-Damage-Detection.git
    git clone https://github.com/Kanishk1420/StreetSense-Road-Damage-Detection.git
    ```
 
