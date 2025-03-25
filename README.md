@@ -4,8 +4,9 @@ StreetSense is a Flutter-based mobile application designed to capture images of 
 
 ## 📱 Demo
 
-<!-- Add your app demo video here -->
-[Insert app demonstration video]
+[![StreetSense Demo](https://img.youtube.com/vi/JZv7CvGZHck/0.jpg)](https://youtube.com/shorts/JZv7CvGZHck?feature=share)
+
+*Click on the image above to watch the demo video*
 
 ## ✨ Features
 
@@ -82,6 +83,7 @@ The app provides comprehensive damage analysis through multiple metrics:
 
 1. Clone the repository:
    ```
+
    git clone https://github.com/Kanishk1420/StreetSense-Road-Damage-Detection.git
    ```
 
