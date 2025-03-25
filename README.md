@@ -133,24 +133,42 @@ To use your own API key:
 
 ## 🔜 Upcoming Features
 
-- **Google Maps Integration**: Adding location tracking and mapping features to plot damage locations and create heatmaps of problematic areas
-- **Enhanced Registration System**: Improved user registration page with profile management and historical analysis tracking
+### Code Improvements
+- **Code Refactoring**: Breaking down `damage_analysis_screen.dart` into multiple smaller files for better maintainability
+- **iOS Support**: Adding iOS development setup and compatibility
+- **Performance Optimizations**: Improving app response time and reducing resource usage
+
+### UI/UX Enhancements
+- **Starting Screen**: Creating a dedicated intro screen with animations for the StreetSense logo
+- **Text Animations**: Adding shine/glow animations to the StreetSense text
+- **Button Improvements**: Dynamic sizing for selected bottom buttons
+- **Warning Text**: Enhancing visibility of warning text in the Contact Information section
+- **App Logo**: Updating the StreetSense app logo
+- **Button Text**: Changing "Submit" button to "Next" for better user flow
+- **Dark/Light Theme**: Adding theme options
+- **Accessibility**: Improving app accessibility features
+- **Animated Transitions**: Smoother transitions between screens
+
+### Feature Additions
+- **Google Maps Integration**: 
+  - Adding location tracking and mapping features
+  - Creating heatmaps of problematic areas
+  - Plotting damage locations on interactive maps
+- **Enhanced Registration System**: 
+  - Improved user registration page with profile management
+  - Historical analysis tracking
 - **Model Improvements**: 
   - Higher accuracy detection for various types of potholes
   - Better classification of different crack patterns (longitudinal, alligator, etc.)
   - Improved detection in various lighting and weather conditions
-- **UI/UX Enhancements**:
-  - Redesigned dashboard with intuitive navigation
-  - Dark/light theme options
-  - Accessibility improvements
-  - Animated transitions between screens
-- **Additional Planned Features**:
-  - Offline detection capabilities
-  - Historical data analysis and trends
-  - Direct reporting to local authorities
-  - Severity classification system
-  - Support for video analysis
-  - Damage progression tracking over time
+
+### Additional Planned Features
+- **Offline Detection**: Enabling damage analysis without internet connection
+- **Historical Analysis**: Tracking and analyzing road damage over time
+- **Reporting System**: Direct reporting to local authorities
+- **Severity Classification**: Enhanced damage severity metrics
+- **Video Analysis**: Support for analyzing video footage
+- **Damage Tracking**: Monitoring progression of damage over time
 
 ## 👨‍💻 Team Members
 
