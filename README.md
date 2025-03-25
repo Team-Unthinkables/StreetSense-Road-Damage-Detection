@@ -82,7 +82,7 @@ The app provides comprehensive damage analysis through multiple metrics:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/streetsense.git
+   git clone https://github.com/Kanishk1420/StreetSense-Road-Damage-Detection.git
    ```
 
 2. Navigate to the project directory:
@@ -104,13 +104,15 @@ The app provides comprehensive damage analysis through multiple metrics:
 
 The app relies on the following key dependencies:
 
-- `camera`: ^0.10.5+9 - For camera access and control
-- `image_picker`: ^1.0.7 - For accessing the device gallery
-- `http`: ^1.1.0 - For making API requests
-- `image`: ^4.0.15 - For image processing
-- `fl_chart`: ^0.66.0 - For rendering charts
-- `path_provider`: ^2.1.2 - For file system access
-- `sensors_plus`: ^6.1.1 - For device sensor access
+| Package | Version | Purpose |
+|---------|---------|---------|
+| camera | 0.10.5+9 | Camera access and control |
+| image_picker | 1.0.7 | Accessing the device gallery |
+| http | 1.1.0 | Making API requests |
+| image | 4.0.15 | Image processing |
+| fl_chart | 0.66.0 | Rendering charts and graphs |
+| path_provider | 2.1.2 | File system access |
+| sensors_plus | 6.1.1 | Device sensor access |
 
 See `pubspec.yaml` for a complete list of dependencies.
 
